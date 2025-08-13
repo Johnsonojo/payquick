@@ -1,1 +1,41 @@
-{}
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "payquick",
+      "name": "Payquick Owner",
+      "password": "password123",
+      "email": "payquick.owner@example.com"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "userid": 1,
+      "date": "2022-01-01",
+      "description": "Salary",
+      "amount": 1000
+    },
+    {
+      "id": 2,
+      "userid": 1,
+      "date": "2022-01-02",
+      "description": "Groceries",
+      "amount": -50
+    },
+    {
+      "id": 3,
+      "userid": 1,
+      "date": "2022-01-03",
+      "description": "Rent",
+      "amount": -1000
+    },
+    {
+      "id": 4,
+      "userid": 1,
+      "date": "2022-01-07",
+      "description": "Shopping",
+      "amount": -100
+    }
+  ]
+}
