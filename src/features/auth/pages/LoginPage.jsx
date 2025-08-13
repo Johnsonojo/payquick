@@ -143,7 +143,10 @@ transparent transition-all duration-200"
             <div className="text-xs text-gray-500 space-y-1">
               <p className="text-center">
                 <strong>Username and password:</strong>{" "}
-                <span className="font-mono bg-white px-1 rounded">john</span> /{" "}
+                <span className="font-mono bg-white px-1 rounded">
+                  payquick
+                </span>{" "}
+                /{" "}
                 <span className="font-mono bg-white px-1 rounded">
                   password123
                 </span>

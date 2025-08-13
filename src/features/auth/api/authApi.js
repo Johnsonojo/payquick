@@ -10,7 +10,7 @@ const login = async (credentials) => {
 
   // Find user with matching username and password
   const user = users.find(
-    (u) => u.username === username && u.password === password
+    (user) => user.username === username && user.password === password
   );
 
   if (!user) {

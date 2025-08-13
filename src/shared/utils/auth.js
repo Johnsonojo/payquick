@@ -1,5 +1,3 @@
-// Essential authentication utility functions for PayQuick
-
 import { STORAGE_KEYS } from "../constants/app.js";
 
 /**
