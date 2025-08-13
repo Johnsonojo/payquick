@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import ProtectedRoute from "./components/layout/ProtectedRoute.jsx";
 import LoginPage from "./features/auth/pages/LoginPage.jsx";
-import DashboardPage from "./features/dashboard/pages/DashboardPage.jsx";
+import DashboardPage from "./features/transactions/pages/DashboardPage.jsx";
 
 function App() {
   const { isAuthenticated } = useSelector((state) => state.auth);

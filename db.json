@@ -12,30 +12,72 @@
     {
       "id": 1,
       "userid": 1,
-      "date": "2022-01-01",
-      "description": "Salary",
-      "amount": 1000
+      "date": "2025-06-05",
+      "description": "Monthly Salary",
+      "amount": 350000
     },
     {
       "id": 2,
       "userid": 1,
-      "date": "2022-01-02",
-      "description": "Groceries",
-      "amount": -50
+      "date": "2025-06-10",
+      "description": "Freelance Project",
+      "amount": 80000
     },
     {
       "id": 3,
       "userid": 1,
-      "date": "2022-01-03",
-      "description": "Rent",
-      "amount": -1000
+      "date": "2025-06-12",
+      "description": "Investment Dividend",
+      "amount": 25000
     },
     {
       "id": 4,
       "userid": 1,
-      "date": "2022-01-07",
-      "description": "Shopping",
-      "amount": -100
+      "date": "2025-06-15",
+      "description": "Coffee Shop",
+      "amount": -1200
+    },
+    {
+      "id": 5,
+      "userid": 1,
+      "date": "2025-06-16",
+      "description": "Gas Station",
+      "amount": -4500
+    },
+    {
+      "id": 6,
+      "userid": 1,
+      "date": "2025-06-18",
+      "description": "Online Course",
+      "amount": -9900
+    },
+    {
+      "id": 7,
+      "userid": 1,
+      "date": "2025-07-05",
+      "description": "Restaurant Dinner",
+      "amount": -7500
+    },
+    {
+      "id": 8,
+      "userid": 1,
+      "date": "2025-07-10",
+      "description": "Book Purchase",
+      "amount": -2500
+    },
+    {
+      "id": 9,
+      "userid": 1,
+      "date": "2025-07-15",
+      "description": "Side Gig Payment",
+      "amount": 30000
+    },
+    {
+      "id": 10,
+      "userid": 1,
+      "date": "2025-07-20",
+      "description": "Grocery Store",
+      "amount": -8500
     }
   ]
 }
