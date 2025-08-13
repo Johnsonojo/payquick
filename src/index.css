@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+/* Essential button styles */
+.btn-primary {
+  @apply bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200;
+}
+
+.btn-secondary {
+  @apply border border-gray-300 text-gray-700 bg-white px-4 py-2 rounded-lg hover:bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200;
+}
+
+/*
+ Form elements focus improvements */
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+/* Focus improvements for accessibility */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Button interactions */
+button {
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+/* Table
+ row hover */
+tr:hover {
+  @apply bg-gray-50 transition-colors duration-150;
+}
