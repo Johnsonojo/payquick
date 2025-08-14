@@ -78,6 +78,146 @@
       "date": "2025-07-20",
       "description": "Grocery Store",
       "amount": -8500
+    },
+    {
+      "id": 11,
+      "userid": 1,
+      "date": "2025-07-22",
+      "description": "Electricity Bill",
+      "amount": -15000
+    },
+    {
+      "id": 12,
+      "userid": 1,
+      "date": "2025-07-25",
+      "description": "Internet Bill",
+      "amount": -5500
+    },
+    {
+      "id": 13,
+      "userid": 1,
+      "date": "2025-08-01",
+      "description": "Rent Payment",
+      "amount": -120000
+    },
+    {
+      "id": 14,
+      "userid": 1,
+      "date": "2025-08-03",
+      "description": "Bonus Payment",
+      "amount": 50000
+    },
+    {
+      "id": 15,
+      "userid": 1,
+      "date": "2025-08-05",
+      "description": "Pharmacy",
+      "amount": -3200
+    },
+    {
+      "id": 16,
+      "userid": 1,
+      "date": "2025-08-08",
+      "description": "Movie Theater",
+      "amount": -1800
+    },
+    {
+      "id": 17,
+      "userid": 1,
+      "date": "2025-08-10",
+      "description": "Car Maintenance",
+      "amount": -25000
+    },
+    {
+      "id": 18,
+      "userid": 1,
+      "date": "2025-08-12",
+      "description": "Client Payment",
+      "amount": 45000
+    },
+    {
+      "id": 19,
+      "userid": 1,
+      "date": "2025-08-15",
+      "description": "Insurance Premium",
+      "amount": -18000
+    },
+    {
+      "id": 20,
+      "userid": 1,
+      "date": "2025-08-18",
+      "description": "Clothing Store",
+      "amount": -12000
+    },
+    {
+      "id": 21,
+      "userid": 1,
+      "date": "2025-08-20",
+      "description": "ATM Withdrawal",
+      "amount": -10000
+    },
+    {
+      "id": 22,
+      "userid": 1,
+      "date": "2025-08-22",
+      "description": "Consulting Fee",
+      "amount": 75000
+    },
+    {
+      "id": 23,
+      "userid": 1,
+      "date": "2025-08-25",
+      "description": "Restaurant Lunch",
+      "amount": -2800
+    },
+    {
+      "id": 24,
+      "userid": 1,
+      "date": "2025-08-28",
+      "description": "Phone Bill",
+      "amount": -4200
+    },
+    {
+      "id": 25,
+      "userid": 1,
+      "date": "2025-09-01",
+      "description": "Gym Membership",
+      "amount": -6000
+    },
+    {
+      "id": 26,
+      "userid": 1,
+      "date": "2025-09-03",
+      "description": "Subscription Service",
+      "amount": -999
+    },
+    {
+      "id": 27,
+      "userid": 1,
+      "date": "2025-09-05",
+      "description": "Taxi Ride",
+      "amount": -1500
+    },
+    {
+      "id": 28,
+      "userid": 1,
+      "date": "2025-09-08",
+      "description": "Stock Dividend",
+      "amount": 15000
+    },
+    {
+      "id": 29,
+      "userid": 1,
+      "date": "2025-09-10",
+      "description": "Charity Donation",
+      "amount": -5000
+    },
+    {
+      "id": 30,
+      "userid": 1,
+      "date": "2025-09-12",
+      "description": "Bank Transfer",
+      "amount": 20000
     }
   ]
 }
