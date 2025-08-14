@@ -136,7 +136,7 @@ transparent transition-all duration-200"
           </form>
 
           {/* Demo credentials */}
-          <div className="mt-6 p-4 bg-gray-50 rounded-lg">
+          {/* <div className="mt-6 p-4 bg-gray-50 rounded-lg">
             <p className="text-sm text-gray-600 text-center mb-2">
               Demo Credentials:
             </p>
@@ -152,7 +152,7 @@ transparent transition-all duration-200"
                 </span>
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
